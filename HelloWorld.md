@@ -2,8 +2,6 @@
 
 ###This wasn't as easy as I thought
 
-The "+" button to add a file was very hard to find and I ended up creating a .Rmd first, then noticed they are not the same
-
 I am trying some markdown syntax features:
 
 * Bullet points
